@@ -2,7 +2,7 @@
 
 **🎵 Live Demo Page:** [Demo page](https://ddman1101.github.io/Separate-and-Detect-demo)
 
-** Code:** [Link](https://github.com/ddman1101/Separate-and-detect)
+Code: [Link](https://github.com/ddman1101/Separate-and-detect)
 
 This demo page showcases our separation-and-transcription pipeline for automatic drum transcription (ADT). It contains:
 
