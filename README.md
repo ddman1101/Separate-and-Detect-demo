@@ -1,6 +1,6 @@
 # Separate-and-Detect — Audio Demo Page
 
-**🎵 Live Demo Page:** [https://ismir26snd.github.io/demoSnD/](https://ismir26snd.github.io/demoSnD/)
+**🎵 Live Demo Page:** [Demo page](https://ddman1101.github.io/Separate-and-DetectDemo)
 
 This demo page showcases our separation-and-transcription pipeline for automatic drum transcription (ADT). It contains:
 
