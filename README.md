@@ -14,4 +14,4 @@ This demo page showcases our separation-and-transcription pipeline for automatic
 Some of the drum sounds in our examples are rendered from one-shot samples extracted from the StemGMD dataset.
 
 ### Code 
-Link : [https://github.com/ddman1101/Separate-and-detect](https://github.com/ddman1101/Separate-and-detect)
+Link : [https://github.com/ddman1101/Separate-and-detect](https://ddman1101.github.io/Separate-and-Detect-demo)
